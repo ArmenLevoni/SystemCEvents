@@ -8,7 +8,7 @@
 
 #ifndef fifo_hpp
 #define fifo_hpp
-
+#include <systemc>
 #include <stdio.h>
 
 #endif /* fifo_hpp */
